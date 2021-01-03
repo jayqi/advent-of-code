@@ -1,0 +1,8 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "python.pythonPath": "/Users/jqi/miniconda3/envs/advent-of-code-2020/bin/python"
+}
