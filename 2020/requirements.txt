@@ -1,0 +1,6 @@
+# Solution requirements
+pydantic
+
+# Dev requirements
+black
+flake8
